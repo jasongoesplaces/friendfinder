@@ -7,7 +7,7 @@ This is a friend pairing app, where users answer a few questions and are then ma
 
 ### How To Use
 
-A link to this app can be found [here!](https://nameless-plateau-45017.herokuapp.com/)
+A link to this app can be found [here!](https://polar-sea-87546.herokuapp.com/)
 
 
 ### Technologies Used
@@ -15,3 +15,13 @@ A link to this app can be found [here!](https://nameless-plateau-45017.herokuapp
 * node.js
 * express.js
 * mySQL
+
+
+### Screenshots
+
+Home Page
+![screenshot](app/screenshots/homepage.png "Home Page")
+
+
+Survey Page
+![screenshot](app/screenshots/surveypage.png "Survey Page")
