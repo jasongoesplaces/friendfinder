@@ -2,7 +2,7 @@
 
 ### How It Works
 
-This is a friend pairing app, where users answer a few questions and are then matched with a friend based on their answers.
+This is a friend pairing app, where users answer a few questions and are then matched with a new best friend based on their answers.
 
 
 ### How To Use
